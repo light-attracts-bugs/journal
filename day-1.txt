@@ -1,0 +1,1 @@
+We set up our environments, played around with git a little bit, and made a "hello world" html page.
