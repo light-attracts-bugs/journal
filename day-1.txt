@@ -1,1 +1,2 @@
-We set up our environments, played around with git a little bit, and made a "hello world" html page.
+We set up our environments, played around with git a little bit, and made a "hello world" html page. 
+I have a comp-sci degree, so I know the basics.
